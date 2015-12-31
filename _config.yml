@@ -1,0 +1,28 @@
+name: Jason Wodicka
+favicon: null
+layout_spectrum: 0.298032513121143
+typography_spectrum: 0.8218746040947735
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.09344307100400329
+  lightness: 0.46761355036869645
+  saturation: 0.5830214868765324
+  rhythmicContrast: 0.43213774054311216
+purpose: []
